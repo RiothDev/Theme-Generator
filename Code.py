@@ -11,6 +11,7 @@ fonts = {
 properties = ["Image-Url", "Home-Url", "RGB-Color", "Main-Transparency", "Server-List-Width", "Main-Font-Size"]
 
 def main():
+    os.system("title Theme Generator")
     os.system("cls")
 
     print("- Code made by HazuDev (Credits to puckzxz for making the CSS template)\n")
